@@ -1,0 +1,2 @@
+# ecmascript
+Práctica curso ecmascript
